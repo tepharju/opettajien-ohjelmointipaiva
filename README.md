@@ -1,0 +1,1 @@
+Opettajien ohjelmointipäivän harjoitustehtävien mallit
